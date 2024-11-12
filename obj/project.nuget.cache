@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYOV+IoiEIo=",
+  "success": true,
+  "projectFilePath": "D:\\Dev Work\\realtime-speech\\realtime-speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knaveen\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.41.1\\microsoft.cognitiveservices.speech.1.41.1.nupkg.sha512"
+  ],
+  "logs": []
+}
